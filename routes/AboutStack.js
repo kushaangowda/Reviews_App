@@ -17,6 +17,7 @@ const AboutStack = () => (
 			headerTitleStyle: {
 				fontWeight: "bold",
 			},
+			headerTitleAlign: "center",
 		}}
 	>
 		<Screen

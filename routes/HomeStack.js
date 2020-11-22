@@ -18,6 +18,7 @@ const HomeStack = () => (
 			headerTitleStyle: {
 				fontWeight: "bold",
 			},
+			headerTitleAlign: "center",
 		}}
 	>
 		{/* pass default style to all navbars */}
